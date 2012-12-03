@@ -1,0 +1,15 @@
+[submodule "nes_ntsc"]
+	path = nes_ntsc
+	url = git@github.com:kode54/nes_ntsc.git
+[submodule "Nes_Emu_Core"]
+	path = Nes_Emu_Core
+	url = git@github.com:kode54/QuickNES_Core.git
+[submodule "Nes_Emu_Windows"]
+	path = Nes_Emu_Windows
+	url = git@github.com:kode54/QuickNES_Windows.git
+[submodule "File_Extractor"]
+	path = File_Extractor
+	url = git@github.com:kode54/File_Extractor.git
+[submodule "zlib"]
+	path = zlib
+	url = git@github.com:madler/zlib.git
